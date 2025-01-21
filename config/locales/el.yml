@@ -1,4 +1,4 @@
-el-GR:
+el:
   activerecord:
     attributes:
       spree/address:
@@ -628,7 +628,7 @@ el-GR:
       available_locales: Available Locales
       language: Language
       localization_settings: Localisation Settings
-      this_file_language: English (UK)
+      this_file_language: Ελληνικά
     icon: Icon
     identifier:
     image: Image
