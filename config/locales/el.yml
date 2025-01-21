@@ -576,7 +576,7 @@ el:
     events:
       spree:
         cart:
-          add: Add to cart
+          add: Add to καλάθι
         checkout:
           coupon_code_added: Coupon code added
         content:
@@ -840,7 +840,7 @@ el:
     order_sure_want_to: Are you sure you want to %{event} this order?
     order_total: Order Total
     order_updated: Order Updated
-    orders: Orders
+    orders: Παραγγελίες
     other_items_in_other:
     out_of_stock: Out of Stock
     overview: Overview
