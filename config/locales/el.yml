@@ -219,7 +219,7 @@ el:
       spree/option_value:
       spree/order:
         one: Order
-        other: Orders
+        other: Παραγγελίες
       spree/payment:
         one: Payment
         other: Payments
