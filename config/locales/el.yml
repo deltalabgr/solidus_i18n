@@ -55,25 +55,25 @@ el:
         state: Νομός
         total: Σύνολο
       spree/order/bill_address:
-        address1: Billing address street
-        city: Billing address city
-        firstname: Billing address first name
-        lastname: Billing address last name
-        phone: Billing address phone
-        state: Billing address county
-        zipcode: Billing address post code
+        address1: Διεύθυνση Χρέωσης
+        city: Πόλη Χρέωσης
+        firstname: Όνομα Χρέωσης
+        lastname: Επώνυμο Χρέωσης
+        phone: Τηλέφωνο Χρέωσης
+        state: Νομός Χρέωσης
+        zipcode: Ταχυδρομικός Κώδικας Χρέωσης
       spree/order/ship_address:
-        address1: Shipping address street
-        city: Shipping address city
-        firstname: Shipping address first name
-        lastname: Shipping address last name
-        phone: Shipping address phone
-        state: Shipping address county
-        zipcode: Shipping address post code
+        address1: Διεύθυνση Αποστολής
+        city: Πόλη Αποστολής
+        firstname: Όνομα Αποστολής
+        lastname: Επώνυμο Αποστολής
+        phone: Τηλέφωνο Αποστολής
+        state: Νομός Αποστολής
+        zipcode: Ταχυδρομικός Κώδικας Αποστολής
       spree/payment:
-        amount: Amount
+        amount: Ποσό
       spree/payment_method:
-        name: Name
+        name: Όνομα
       spree/product:
         available_on: Available On
         cost_currency: Cost Currency
@@ -1028,7 +1028,6 @@ el:
     return_item_inventory_unit_ineligible:
     return_item_inventory_unit_reimbursed:
     return_item_rma_ineligible:
-    return_item_time_period_ineligible:
     return_items:
     return_items_cannot_be_associated_with_multiple_orders:
     return_number:
