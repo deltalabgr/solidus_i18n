@@ -2,58 +2,58 @@ el:
   activerecord:
     attributes:
       spree/address:
-        address1: Address
-        address2: Address (contd.)
-        city: City
-        country: Country
-        firstname: First Name
-        lastname: Last Name
-        phone: Phone
-        state: County
-        zipcode: Post Code
+        address1: Διεύθυνση
+        address2: Διεύθυνση (συνέχεια)
+        city: Πόλη
+        country: Χώρα
+        firstname: Όνομα
+        lastname: Επώνυμο
+        phone: Τηλέφωνο
+        state: Νομός
+        zipcode: Ταχυδρομικός Κώδικας
       spree/calculator/tiered_flat_rate:
-        preferred_base_amount:
-        preferred_tiers:
+        preferred_base_amount: Προτιμώμενο Βασικό Ποσό
+        preferred_tiers: Προτιμώμενα Επίπεδα
       spree/calculator/tiered_percent:
-        preferred_base_percent:
-        preferred_tiers:
+        preferred_base_percent: Προτιμώμενο Βασικό Ποσοστό
+        preferred_tiers: Προτιμώμενα Επίπεδα
       spree/country:
         iso: ISO
         iso3: ISO3
-        iso_name: ISO Name
-        name: Name
-        numcode: ISO Code
+        iso_name: Όνομα ISO
+        name: Όνομα
+        numcode: Κωδικός ISO
       spree/credit_card:
-        base:
-        cc_type: Type
-        month: Month
-        name:
-        number: Number
-        verification_value: Verification Value
-        year: Year
+        base: Βάση
+        cc_type: Τύπος
+        month: Μήνας
+        name: Όνομα
+        number: Αριθμός
+        verification_value: Κωδικός Επαλήθευσης
+        year: Έτος
       spree/inventory_unit:
-        state: County
+        state: Νομός
       spree/line_item:
-        price: Price
-        quantity: Quantity
+        price: Τιμή
+        quantity: Ποσότητα
       spree/option_type:
-        name: Name
-        presentation: Presentation
+        name: Όνομα
+        presentation: Παρουσίαση
       spree/order:
-        checkout_complete: Checkout Complete
-        completed_at: Completed At
-        considered_risky:
-        coupon_code: Coupon Code
-        created_at: Order Date
-        email: Customer E-Mail
-        ip_address: IP Address
-        item_total: Item Total
-        number: Number
-        payment_state: Payment State
-        shipment_state: Shipment State
-        special_instructions: Special Instructions
-        state: County
-        total: Total
+        checkout_complete: Ολοκλήρωση Παραγγελίας
+        completed_at: Ολοκληρώθηκε Στις
+        considered_risky: Θεωρείται Ριψοκίνδυνη
+        coupon_code: Κωδικός Κουπονιού
+        created_at: Ημερομηνία Παραγγελίας
+        email: Email Πελάτη
+        ip_address: Διεύθυνση IP
+        item_total: Σύνολο Αντικειμένων
+        number: Αριθμός
+        payment_state: Κατάσταση Πληρωμής
+        shipment_state: Κατάσταση Αποστολής
+        special_instructions: Ειδικές Οδηγίες
+        state: Νομός
+        total: Σύνολο
       spree/order/bill_address:
         address1: Billing address street
         city: Billing address city
