@@ -336,7 +336,7 @@ el:
       tab:
         configuration: Configuration
         option_types:
-        orders: Orders
+        orders: Παραγγελίες
         overview: Overview
         products: Products
         promotions: Promotions
